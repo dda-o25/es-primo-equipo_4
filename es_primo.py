@@ -24,6 +24,6 @@ else:
 
 #Salidas
 if es_primo:
-    print(f"{numero} es un número primo.")
+    print(f"{numero} sí es primo.")
 else:
-    print(f"{numero} no es un número primo.")
+    print(f"{numero} no es primo.")
